@@ -17,3 +17,4 @@
 | [**jQuery**](https://snakify.org/en/lessons/jquery/) | **7** |  |
 | [**Responsive Design with Bootstrap**](https://snakify.org/en/lessons/bootstrap/) | **12** |  |
 | [**HTML5 and CSS**](https://snakify.org/en/lessons/html5-and-css/) | **24** |  |
+| **Total Problems** | **= 155** |  |
